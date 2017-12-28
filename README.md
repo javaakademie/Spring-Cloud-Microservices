@@ -9,27 +9,32 @@ Alle Microservices sind als Maven-Projekte angelegt und können wie folgt gebaut
 ### Eureka-Server
 ```
 cd discovery-service
-mvn -q clean install spring-boot:run```
+mvn -q clean install spring-boot:run
+```
 
 ### Comic-Service
 ```
 cd comic-service
-mvn -q clean install spring-boot:run```
+mvn -q clean install spring-boot:run
+```
 
 ### User-Service
 ```
 cd user-service
-mvn -q clean install spring-boot:run```
+mvn -q clean install spring-boot:run
+```
 
 ### Edge-Service
 ```
 cd gateway-service
-mvn -q clean install spring-boot:run```
+mvn -q clean install spring-boot:run
+```
 
 ### Zipkin-Service
 ```
 cd zipkin-service
-mvn -q clean install spring-boot:run```
+mvn -q clean install spring-boot:run
+```
 
 ## Aufruf der Anwendung
 
