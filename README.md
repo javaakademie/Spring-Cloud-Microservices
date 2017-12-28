@@ -1,6 +1,6 @@
 # Spring Boot Microservices
 
-Dieses Beispiel zeigt eine Microservices-Architektur auf Basis von Spring Boot und Spring Cloud. Für detaillierte Erklärungen sei auf den Blog-Eintrag  [Build a Microservices Architecture for Microbrews with Spring Boot](http://Java-Akademie.de/blog/build-microservices-spring-boot-cloud) verwiesen.
+Dieses Beispiel zeigt eine Microservices-Architektur auf Basis von Spring Boot und Spring Cloud. Für detaillierte Erklärungen sei auf den Blog-Eintrag  [Microservices-Architektur mit Spring Boot](http://Java-Akademie.de/blog/build-microservices-spring-boot-cloud) verwiesen.
 
 ## Bauen und Starten der Anwendung
 
