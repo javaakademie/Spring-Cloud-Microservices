@@ -6,23 +6,28 @@ Dieses Beispiel zeigt eine Microservices-Architektur auf Basis von Spring Boot u
 
 Alle Microservices sind als Maven-Projekte angelegt und können wie folgt gebaut und gestartet werden.
 
-### Eureka-Server```
+### Eureka-Server
+```
 cd discovery-service
 mvn -q clean install spring-boot:run```
 
-### Comic-Service```
+### Comic-Service
+```
 cd comic-service
 mvn -q clean install spring-boot:run```
 
-### User-Service```
+### User-Service
+```
 cd user-service
 mvn -q clean install spring-boot:run```
 
-### Edge-Service```
+### Edge-Service
+```
 cd gateway-service
 mvn -q clean install spring-boot:run```
 
-### Zipkin-Service```
+### Zipkin-Service
+```
 cd zipkin-service
 mvn -q clean install spring-boot:run```
 
